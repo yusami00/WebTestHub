@@ -1,0 +1,252 @@
+.bg{
+	width: 1252px;
+	height: 1202px;
+		border-width: 1px;
+		border-style: solid;
+    position: absolute;
+    top: 0;
+}
+
+p{
+	margin: 0;
+}
+
+.first{
+	width: 100%;
+	height: 35%;
+}
+
+.fl{
+	margin: 0;
+	width: 49.2%;
+	height: 90%;
+	float: left;
+	text-align: right;
+}
+
+.flimg{
+     padding-top: 8%;
+}
+
+.fr{
+	box-sizing: border-box;	
+	margin: 0;
+	padding-top: 5%	;
+	padding-left: 4%;
+	width: 50.8%;
+	height: 90%;
+	float: left;
+}
+
+.top{
+	margin-bottom: 4%;
+	font-size: 20px;
+}
+
+.first hr{
+	border: none;
+	background-color: rgb(1,105,178);
+	width: 8.5%;
+	height: 1.5%;
+	margin: 0 0 6% 0;
+}
+
+.mid{
+	margin: 0 0 2% 0;
+}
+
+.botout{
+	width: 35%;
+	height: 20%;
+}
+
+.bot{
+	margin: 18% 0 0 0;
+	height: 70%;
+	border-radius: 3px;
+	background-color: rgb(1,105,178);
+}
+
+.botinner{
+	color: rgb(255,255,255);
+	padding-top: 5%;
+	margin: 0 0 0 8%;
+}
+
+.second{
+    width: 100%;
+    height: 30%;
+}
+
+.sp{
+	box-sizing: border-box;
+	margin: 0 10%;
+	padding: 1%	 0 0 0;
+	width: 80%;
+	height: 25%;
+}
+
+.slf{
+	margin-right: 1%;
+	color: rgb(1,105,178);
+	font-size: 35px;
+}
+
+.srf{
+	font-size: 25px;
+}
+
+.rdiv{
+	display: inline;
+	float: right;
+	width: 15%;
+	height: 40%;
+	margin: 1% 0 0 0;
+	background-color: rgb(1,105,178);
+	border-radius: 5px;
+}
+
+.rdiv span{
+	margin: 0 0 0 25%;
+	color: white;
+	font-size: 20px;
+}
+
+.fs{
+	margin: 2.7% 0 0 0;
+}
+
+.left{
+	margin: 2.5% 0 0 0;
+	font-size: 15px;
+	float: left;
+	width: 11%;
+}
+
+.center{
+	margin: 2.5% 0 0 0;
+	font-size: 15px;
+	float: left;
+	width: 11%;
+	height: 30%;
+	border-radius: 15px;
+	background-color: rgb(1,158,227);
+	text-align: center;
+}
+
+.center span{
+	color: white;
+}
+
+.right{
+	margin: 2.5% 0 0 2%;	
+	font-size: 15px;
+	float: left;
+	width: 41%;
+}
+
+.right hr{
+	margin-top: 0;
+}
+
+.se{
+	width: 100%;
+	margin: 7% 0 0 0;
+
+}
+
+.third{
+	box-sizing: border-box;
+	width: 100%;
+	height: 35%;
+	float: left;
+	padding-top: 1%;
+	background-color: rgb(248,248,248);
+}
+
+.tleft{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
+.tright{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
+.third span{
+	font-size: 30px;
+	margin-left: 8%;
+}
+
+.bl{
+	text-align: center;
+	box-sizing: border-box;
+	border-style: solid;
+	border-color: rgb(238,238,238);
+	background-color: white;
+	margin: 4% 0 0 8%;
+	width: 86%;
+	height: 77%
+}
+
+.br{
+	text-align: center;
+	box-sizing: border-box;
+	background-color: white;
+	border-style: solid;
+	border-color: rgb(238,238,238);
+	margin: 4% 0 0 6%;
+	width: 86%;
+	height: 77%
+}
+
+.one{
+	font-size: 20px;
+	margin-top: 6%;
+}
+
+.two{
+	color: rgb(2,111,178);
+	font-size: 45px;
+	margin-top: 2%;
+}
+.three{
+	margin-top: 3%;
+}
+.four{
+	margin-top: 1%;
+}
+.tleft hr{
+	width: 80%;
+	margin-top: 5%;
+}
+.five{
+	font-size: 20px;
+	margin-top: 4%;
+	color: rgb(37,93,149);
+}
+.last{
+	box-sizing: border-box;
+	width: 81%;
+	height: 22.5%;
+	margin: 13% 0 0 9%;
+	padding-top: 3%;
+	background-color: rgb(1,105,178);
+	border-radius: 5px;
+}
+.last p{
+	margin-left: 14%;
+	color: white;
+	font-size: 25px;
+}
+
+.bottom{
+	margin-top: 4%;
+	margin-bottom: -3%; 
+}
+.letter{
+	float: left;
+}
