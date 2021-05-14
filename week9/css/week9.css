@@ -1,0 +1,14 @@
+.row{
+	margin-left: 0;
+}
+.bgf{
+	opacity: 0.5;
+	display: flex;
+}
+.col-md-1{
+	margin: 10px;
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	background-color: pink;
+}

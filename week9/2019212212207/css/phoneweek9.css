@@ -1,0 +1,152 @@
+@charset "UTF-8";
+body{
+	background-color: #f0efed;
+}
+.top{
+	background-color: #32bfb1;
+}
+.col-xs-7.t-box {
+    background-color: #05a494;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    margin-top: 3.5px;
+    padding-top: 2px;
+}
+.form-control.t-search{
+	background-color: #32bfb1;
+	border-color:#32bfb1 ;
+	color: white;
+	font-size: 18px;
+}
+.col-xs-2.t-right {
+	color: white;
+	font-size: 12px;
+}
+.circlebox{
+	background-color: white;
+	border-bottom: 2px solid #ddd8ce;
+	margin-top: 2px;
+}
+.col-xs-3.c-font{
+	font-size: 20px;
+	color: #8a8a8a;
+	padding-left: 35px;
+	padding-top: 15px;
+}
+.circle{
+	width: 40px;
+	height: 40px;
+	border-radius: 20px;
+}
+.thirdline{
+	background-color: white;
+	border-bottom: 2px solid #ddd8ce;
+	border-top: 2px solid #ddd8ce;
+	margin-top: 10px;
+}
+.l3-l{
+	margin: 10px -13px 10px 20px;
+	border-right: 2px solid #ddd8ce;
+}
+.greybox1{
+	width: 80px;
+	height: 80px;
+	border: 2px solid #ddd8ce;
+	background-color: #666666;
+}
+.col-xs-6.rt{
+	border-bottom: 2px solid #ddd8ce;
+}
+.greybox2{
+	width: 50px;
+	height: 50px;
+	border: 2px solid #ddd8ce;
+	background-color: #666666;
+	margin: 5px 10px 10px 17px;
+}
+.greybox3{
+	width: 35px;
+	height: 35px;
+	border: 2px solid #ddd8ce;
+	background-color: #666666;
+	margin: 10px 10px 10px 25px;
+}
+.col-xs-6.rf{
+	border-right: 2px solid #ddd8ce;	
+}
+.timenum{
+	background-color: #4c4c4c;
+	border-radius: 3px;
+	color: white;
+	float: left;
+	margin-left: 5px;
+	padding-left:2px;
+	padding-right:2px;
+}
+.timecolon{
+	float: left;
+}
+.col-xs-3.l4-pad{
+	padding-left: 30px;
+}
+.col-xs-3.l4-bor{
+    border-right: 2px solid #ddd8ce;
+}
+.fifthline{
+	background-color: white;
+	border-top: 2px solid #ddd8ce;
+	margin-top: 10px;
+}
+.l5-top{
+	border-bottom: 2px solid #ddd8ce;
+	margin-left: 10px;
+}
+.l5-gbox{
+	width: 80px;
+	height: 80px;
+	border: 2px solid #ddd8ce;
+	background-color: #666666;
+	margin:0px 10px 0px 10px;
+	overflow: hidden;
+    position: relative;
+    float:left;
+}
+.freebook {
+  background-color:#06c1ae;
+  color: white;
+  width: 80px;
+  height: 20px;
+  text-align: center;
+  margin-left:-20px;
+  margin-top: 10px;
+  transform: rotate(-45deg);
+}
+.l5-btm{
+	width:100px;
+}
+.col-xs-2.price{
+	font-size:18px;
+	color: #06c1ae;
+	float:left;
+	padding:0px;
+}
+.col-xs-2.discount{
+	color: #ff9900;
+	border: 2px solid #ff9900;
+	border-radius:5px;
+	padding:0px;
+}
+.col-xs-4.sold{
+	color:#666666;
+	padding-left:40px;
+	float:right;
+}
+.row.sixthline{
+	background-color:#a0c5e8;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:15px;
+	color:#4bb0cc;
+	font-size:18px;
+}
