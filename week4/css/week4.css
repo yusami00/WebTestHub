@@ -1,0 +1,272 @@
+body{
+	
+}
+.bg {
+	background: url() no-repeat;
+	height: 882px;
+	width: 608px;
+	margin: 0 auto;
+}
+
+.box1 {
+	border-color: rgb(244,244,244) ;
+	border-style: solid;
+	border-width: 13px 13px 17px 13px;
+	height: 852px;
+	width: 582px;
+}
+ .first {
+ 	margin: 0 0 0 0;
+ 	width: 560px;
+ 	height: 111px;
+ }
+ .first .num{
+ 	margin: 0 0 0 0;
+ 	color: #E85020;
+	position: relative;
+	top: 20px;	
+	left: 7px;
+ 	text-align: center;
+ 	width: 560px;
+ 	height: 55px;
+ }
+ .first .num span {
+ 	font-size: 25px;
+ 	margin: 0px 50px 0px 63px;
+ }
+ .first .word{
+	margin: 0 0 0 0;
+	position: relative;
+	left: 5px;
+ 	width: 560px;
+ 	height: 56px;
+  	text-align: center;
+ }
+  .first .word span {
+ 	font-size: 24px;
+ 	margin: 0px 15px 0px 40px;
+ }
+
+.second {
+	position: relative;
+	top: -10px;	
+	background-color: rgb(255,229,221);
+ 	margin: 0 0 0 0;
+ 	color: #E85020;
+ 	text-align: center;
+ 	width: 582px;
+ 	height: 50px;
+ 	}
+ .second span{
+ 	position: relative;
+	top: 4px;
+	left: 40px;
+	font-size: 24px; 
+ }
+
+.third {
+	position: relative;
+	top: -20px;	
+ 	margin: 0 0 0 0;
+ 	text-align: center;
+ 	width: 582px;
+ 	height: 100px;
+ 	}
+ .third p{
+ 	margin: 0 0 0 0;
+ 	position: relative;
+	top: 40px;
+	left: 0px;
+	font-size: 24px;
+ }
+ .third span{
+ 	color: rgb(99,99,99);
+ 	margin: 0 28px 0 25px;
+ }
+ .third .word .forum{
+ 	color: black;
+ }
+ hr.first{
+ 	width: 11%;
+ 	margin: 35px 255px 0px 259px;
+ 	border: 0;
+ 	height: 10px;
+ 	border-bottom: 5px solid rgb(255,65,0);
+ }	
+
+ .fourth {
+	position: relative;
+	top: -30px;	
+ 	margin: 0 0 0 0;
+ 	text-align: center;
+ 	width: 582px;
+ 	height: 120px;
+ 	}
+ .fourth .one{
+ 	position: relative;
+ 	top: 21px;
+ 	right: 20px;
+ 	margin: 0 0 0 0;
+ 	
+ 	font-size: 23px;
+ 	color: rgb(255,178,149);
+ }
+ .fourth .one span{
+ 	margin: 0 50px 0 5px;
+ }
+ .fourth .two{
+ 	position: relative;
+ 	top: 40px;
+ 	left: -36px;
+ 	margin: 0 0 0 0;	
+ 	font-size: 23px;
+ }
+ .fourth .two span{
+ 	margin: 0 50px 0 37px;
+ }
+
+.fifth {
+	height: 150px;
+	width: 582px;
+	position: relative;
+	top: -12px;
+	margin: 0 0 0 0;
+}
+.fifth div{
+	margin: 0 0 0 0;
+	width: 142px;
+	height: 150px;
+	float: left;
+	border-top-color: rgb(246,246,246) ;
+	border-right-color: rgb(246,246,246) ;
+	border-bottom-color: rgb(255,65,0) ;
+	border-left-color: rgb(255,255,255);		
+	border-style: solid;
+	border-width: 1.7px 1.7px;
+}
+.fifth img{
+	margin: 0 0 0 0;
+	position: relative;
+	top: 6px;
+	left: 50px;
+}
+.fifth .word{
+	text-align: center;
+	font-size: 25px;
+	position: relative;
+	top: 7px;
+	left: 50px;
+}
+.fifth .one{
+	border-top-color: rgb(255,65,0);
+	border-left-color: rgb(255,65,0);
+	border-right-color: rgb(255,65,0);
+	border-bottom-color: rgb(255,255,255);		
+}
+.fifth .one .word{
+	position: relative;
+	top: 5px;
+	left: 35px;
+}
+.fifth .two .word{
+	position: relative;
+	top: 12px;	
+}
+.sixth{
+	height: 310px;
+	position: relative;
+	top: -9px;
+	border-width: 1.5px;
+	border-style: solid;
+	border-bottom-color: rgb(255,65,0);
+	border-left-color: rgb(255,65,0);
+	border-right-color: rgb(255,65,0);
+	border-top-color: rgb(255,255,255);
+}
+
+.sixth p{
+		position: relative;
+		top: 0px;
+		left: 30px;
+}
+.sixth span{
+	font-size: 25px;
+	margin: 0 20px 0 20px;
+}
+
+.sixth .one .hf{
+	color: rgb(250,72,30);
+}
+
+.sixth .one span{
+	color: rgb(204,204,204);
+}
+
+.sixth .two{
+	width: 380px;
+	height: 100px;
+	margin: 0 0 0 0;
+	position: relative;
+	left: 30px;
+	top: 3px;
+	border-width: 2px;
+	border-style: solid;
+	border-bottom-color: rgb(204,204,204);
+	border-left-color: rgb(204,204,204);
+	border-right-color: rgb(204,204,204);
+	border-top-color: rgb(204,204,204);
+}
+
+.sixth hr{
+	position: relative;
+	top: 5px;	
+}
+.sixth .two p{
+	position: relative;
+	left: -15px;
+	margin: 5px 0 0 0;
+
+}
+
+.sixth .two .num{
+	color: rgb(204,204,204);
+}
+
+.sixth .three p{
+	margin: 0 0 0 0;
+	position: relative;
+	left: 20px;
+	top: 10px;
+}
+
+.sixth .three .word{
+	color: rgb(146,146,146);	
+}
+
+.sixth .three .num{
+	color: rgb(255,101,6);	
+	position: relative;
+	left: -40px;
+}
+
+.sixth .four{
+	width: 135PX;
+	height: 55px;
+	position: relative;
+	top: 25px;
+	left: 30px;
+	border-radius: 5%;
+	background-color: rgb(255,69,3);
+}
+
+.sixth .four p{
+	position: relative;
+	top: 10px;
+	left: 0px;	
+	margin: 0 0 0 0;
+}
+
+.sixth .four span{
+	color: rgb(255,255,255);
+	font-size: 23px;
+}
